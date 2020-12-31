@@ -19,7 +19,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Violetta Wacker - a physicist, project manager and soon to be data scientist, located in northern Germany - Oldenburg. 
 url: "https://violefreak.github.io"
-logo: "/assets/images/VW_logo.png"
+logo: "/assets/images/VW_Logo.png"
 #twitter_username: username
 github_username: violefreak
 minimal_mistakes_skin: default
