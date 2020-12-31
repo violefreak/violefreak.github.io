@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Violetta Wacker"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/2020_Bild_Vio_01.jpg"
   bio    : "Hi, I am a physicist currently working as a project manager. I miss coding and data science and thus I am currently learning Python. "
   links:
     - label: "Website"
