@@ -34,6 +34,7 @@ paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
 include:
   - _pages
 
@@ -62,6 +63,7 @@ author:
   name   : "Violetta Wacker"
   avatar : "/assets/images/2020_Bild_Vio_01.jpg"
   bio    : "Hi, I am a physicist currently working as a project manager. I miss coding and data science and thus I am currently learning Python. "
+  location: Oldenburg, Germany
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,6 +74,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/violefreak"
+
+social:
+  type: personal
+  name: Violetta Wacker
+  links:
+    - https://www.xing.com/profile/Violetta_Wacker/cv
+    - https://www.linkedin.com/in/violetta-wacker-266240202/
 
 footer:
   links:
@@ -88,10 +97,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      show_date: true
       share: true
       related: true
   # _pages
