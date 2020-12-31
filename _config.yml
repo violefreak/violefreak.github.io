@@ -13,13 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VW
-email:
+title: Violetta Wacker
+subtitle: Physicist, Project Manager & soon to be Data Scientist
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Violetta Wacker - a physicist, project manager and soon to be data scientist.
+  Violetta Wacker - a physicist, project manager and soon to be data scientist, located in northern Germany - Oldenburg. 
+url: "https://violefreak.github.io"
+logo: "/assets/images/VW_logo.png"
 #twitter_username: username
 github_username: violefreak
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -27,7 +30,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
