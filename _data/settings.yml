@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Violetta Wacker
+logo: VW_Logo.png # You can add own logo.
+description: Violetta Wacker is a physicist, project manager and data scientist located in Oldenburg, Germany.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
+  name: Violetta Wacker
+  image: 2020_Vio_Header.png
   say-hello: Hello, I’m <strong>Violetta Wacker!</strong>
   bio: I am a <strong>physicist</strong>, <strong>project manager</strong> and soon to be <strong>data scientist</strong>.
 
