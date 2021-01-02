@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: About
 permalink: /about/
 image: 2020_Vio_About_Me.png
 ---
-
 
 
 ***
