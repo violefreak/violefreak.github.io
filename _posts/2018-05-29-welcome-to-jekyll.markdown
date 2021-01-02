@@ -1,26 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
-image:  10.jpg
-tags:   Jekyll
+title:  "Hi, there!"
+date:   2021-01-01 14:52:55 +0300
+image:  2020_Bild_Vio_01.jpg
+tags:   Python
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hi, there! <br>
+So this is it. I am starting 2021 with my own website, which hopefully will be filled with a lot of fun Python projects in the future. Currently, I am still studying: <a href="https://www.udemy.com/course/python-datascience-bootcamp/"> Python: Data Science, Machine Learning & Neuronale Netze</a> - Vom Python-Anfänger zum gefragten Data-Science-Experten (inkl. Deep Learning): Der Komplettkurs by <a href="https://www.linkedin.com/in/jannisseemann">Jannis Seemann</a>.<br>
+We will see how it goes, so far I am really enjoying myself. There are small quiz and tasks to solve, which I often modify to make them more challenging. However, it would be nice to know how to incorporate a GUI to my small programms. I guess that's my next challenge for the future :)<br>
+Happy New Year, everyone!
