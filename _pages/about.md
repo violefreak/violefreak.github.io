@@ -1,26 +1,47 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
-image: 01.jpg
+image: 2020_Vio_About_Me.png
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+
 
 ***
+## Work experience
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### Leiterin Wissenschaftskommunikation & Verbundkoordinatorin für AHOI_MINT
+<small>May 2017 - today</small>
+Schlaues Haus Oldenburg gGmbH, Oldenburg
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### Science-Lab Kursleiterin
+<small>February 2016 - December 2018</small>
+Science-Lab e. V.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### Wissenschaftliche Mitarbeiterin
+<small>February 2014 - March 2017</small>
+DESY, Hamburg
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+#### DESY Tour Guide
+DESY, Hamburg
+
+#### Visting Scientist
+SLAC, Menlo Park, Carlifornia
+
+## Education
+
+#### Education management
+<small>April 2019 - August 2019</small>
+Carl von Ossietzky Universität Oldenburg
+
+#### Master of Science - Physics
+<small>October 2011 - January 2014</small>
+Universität Hamburg
+Master's thesis: "Sub-Femtosecond Single-Spike X-Ray Pulse from Electron Bunches with Very Low Charge at LCLS", Accelerator Physics Department (University of Hamburg) in cooperation with the SLAC National Accelerator Laboratory (Stanford University)
+
+#### Bachelor of Science - Physics
+<small>October 2008 - October 2011</small>
+Universität Hamburg
+Bachelor's thesis: "Analysis of the spontaneous undulator radiation from bunches with various phase space distributions", Accelerator Physics Department (University of Hamburg)
